@@ -1,4 +1,4 @@
-# Taller 10 — Redes de Sensores LoRa P2P
+# Taller — Redes de Sensores LoRa P2P
 
 Caracterización de un enlace LoRa punto a punto (P2P) entre dos nodos **Heltec WiFi LoRa 32 V3** (SX1262), evaluando el impacto del Spreading Factor sobre RSSI, SNR y PDR a distintas distancias.
 
